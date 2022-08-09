@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.1.0] - 2022-08-09
+- Support Segment Android plugin version 4.10.1
+
 ## [4.0.0] - 2020-04-17
 - Support device mode connection to Braze destination
 
